@@ -1,0 +1,9 @@
+.map {
+  width: 60%;
+  height: inherit;
+  background-color: red;
+  z-index: 0;
+}
+.mapImage {
+  height: inherit;
+}
